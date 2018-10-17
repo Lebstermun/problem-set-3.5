@@ -1,8 +1,57 @@
 h1,h2,h3,h4,h5 {color:DarkRed;}
+
 body {background-color:Peachpuff;}
+
 p {font-family:"Lucida Console", Monaco, monospace;}
+
 h1,h2,h3,h4,h5 {font-family:"Courier New", Courier, monospace;}
+
 li {font-family:"Courier New", Courier, monospace;}
+
 table {font-family:"Courier New", Courier, monospace;}
+
 thead {font-family:"Lucida Console", Monaco, monospace;}
+
 p {color: rgb(143, 86, 86);}
+
+table {color:chocolate;}
+
+li {color:peru;}
+
+li {font-size: 24px;}
+
+p {font-size: 18px;}
+
+tbody {font-size: 20px;}
+
+.table  {text-decoration: none;}
+#image1 {border: 10px;
+         border-color: Saddlebrown;
+         border-style: outset; }
+#image2 {border: 10px;
+        border-color:darkslateblue;
+        border-style: outset; }
+#image3 {border: 10px;
+         border-color:MediumOrchid;
+        border-style: outset; }
+#image4 {border: 10px;
+         border-color:LightGrey;
+         border-style: outset; }
+#image5 {border: 10px;
+        border-color:Red;
+        border-style: outset; }
+#image6 {border: 10px;
+        border-color:DarkKhaki;
+        border-style: outset; }
+#image7 {border: 10px;
+        border-color:White;
+        border-style: outset; }
+#image8 {border: 10px;
+        border-color:Coral;
+        border-style: outset; }
+#image9 {border: 10px;
+        border-color:DarkSlateGray;
+        border-style: outset; }
+#image10 {border: 10px;
+         border-color:Magenta;
+        border-style: outset; }
