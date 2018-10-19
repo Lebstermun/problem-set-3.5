@@ -24,7 +24,7 @@ p {font-size: 18px;}
 
 tbody {font-size: 20px;}
 
-.table  {text-decoration: none;}
+.table  {text-decoration: nsone;}
 #image1 {border: 10px;
          border-color: Saddlebrown;
          border-style: outset; }
@@ -55,3 +55,6 @@ tbody {font-size: 20px;}
 #image10 {border: 10px;
          border-color:Magenta;
         border-style: outset; }
+#image11 {border: 10px red;
+          border-radius: 25px }
+a:hover{color: red;}
